@@ -1,2 +1,4 @@
-package com.example.ppm.domain;public class Project {
+package com.example.ppm.domain;
+
+public class Project {
 }
